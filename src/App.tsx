@@ -5,7 +5,7 @@ function App() {
     <div className='container'>
       <h1>For</h1>
       <p>
-        Hey there, I'm a paragraph.
+        A starter kit for.
       </p>
     </div>
   );
